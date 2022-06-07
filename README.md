@@ -2,7 +2,7 @@
 
 ## .protoをビルドする
 
-※本来ならば下記のリンクの内容で対応ができるが、installしたモジュールなどがうまく使えない場合は、主導でインストールしてパスを通す必要がある
+※本来ならば下記のリンクの内容で対応ができるが、installしたモジュールなどがうまく使えない場合は、手動でインストールしてパスを通す必要がある
 https://grpc.io/docs/languages/go/quickstart/
 
 1. [protoc](https://github.com/protocolbuffers/protobuf)をインストールする。Protocol buffersのコンパイラとなる
